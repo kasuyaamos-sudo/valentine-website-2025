@@ -84,7 +84,7 @@ loveMessages: {
 // Final Celebration
 celebration: {
     title: "Shishemeeeeeee!!,i'm the luckiest guy to get to have you 🖤...",     // Celebration title
-    message: "Now come to Dzaddy ,lets be naughty together...",          // Celebration message
+    message: "Now come to Dzaddy ,lets be naughty together....",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 
