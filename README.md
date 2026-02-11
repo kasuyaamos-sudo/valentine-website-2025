@@ -46,7 +46,7 @@ Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
 valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+pageTitle: "My litle cute Zummy, will you be My Valentines? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
@@ -57,34 +57,34 @@ floatingEmojis: {
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
-        yesBtn: "Yes",                             // Yes button text
-        noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        text: "I'm i the love of your life?",                   // First question
+        yesBtn: "You are",                             // Yes button text
+        noBtn: "Naaaaaaah",                               // No button text
+        secretAnswer: "SHISHEMEEEEEEE! ❤️"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
-        startText: "This much!",                   // Text before percentage
-        nextBtn: "Next ❤️"                         // Next button text
+        text: "How much do you love me?,,bring 'em come naaah!!",          // Second question
+        startText: "arigatooo my love 😍!",                   // Text before percentage
+        nextBtn: "Next 🖤🖤 "                         // Next button text
     },
     third: {
-        text: "Will you be my Valentine...?",      // Final question
-        yesBtn: "Yes!",                            // Yes button text
-        noBtn: "No"                                // No button text
+        text: "The moment of truth now 😂,,will you ZUKAIKAH AHMED KASUYA be my vaentines 🖤...?",      // Final question
+        yesBtn: "Shisemeeeeee!",                            // Yes button text
+        noBtn: "Naaaaaaah"                                // No button text
     }
 }
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
-    normal: "And beyond! 🥰"                           // Shows above 100%
+    extreme: "damn,look who is loving me so much,nani kama mm 😂 ?? 🥰🚀💝",  // Shows above 5000%
+    high: "Yeeeeeaaaahhhhhhhhhhhhhh lets goooooooooooo! 🚀💝",              // Shows above 1000%
+    normal: "baby! 🥰"                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
+    title: "Shishemeeeeeee!!,i'm the luckiest guy to get to have you 🖤...",     // Celebration title
+    message: "Now come to Dzaddy ,lets be naughty together...",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 
